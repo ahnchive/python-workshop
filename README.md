@@ -20,3 +20,31 @@ Pandas tutorials adapted from:
 Matplotlib tutorials adapted from: 
 - https://github.com/matplotlib/AnatomyOfMatplotlib Distributable under the CC-Attribution-3.0 Unported license.
 - https://github.com/matplotlib/cheatsheets Distributable under the CC-Attribution-3.0 Unported license.
+
+
+
+# Chapter 1 Python Warmup
+Objectives:
+ - Familiarize yourself with the basic functions of Python and its applications
+ 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZX6k6HnPSQAmYReG5_vAliakTC-N0mZ4)
+
+
+# Chapter 2 Variables and Data Structure
+Objectives:
+ - Become familiar with assigning variables
+ - Understand the differences in variable types
+ - Know the difference between mutable and immutable sequences
+ 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13VVXXqipUw7MqCCIPvjaI9eQ55E7MVPV#scrollTo=8gO3OO9-xNmX)
+ 
+ # Chapter 3 Control Logics and Functions
+ Objectives:
+ - Understand boolean operators
+ - Know how to apply functions and loops
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ErXLQXD5FGfsRCjvEGTms5flw-npGHK4#scrollTo=dGLCijsb6Eol)
+
+ # Chapter 4
+ Objectives:
+ - 
