@@ -45,6 +45,40 @@ Objectives:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ErXLQXD5FGfsRCjvEGTms5flw-npGHK4#scrollTo=dGLCijsb6Eol)
 
- # Chapter 4
+ # Chapter 4 Classes and Libraries
  Objectives:
- - 
+ - Understand how modules are organized
+ - Know how to apply classes
+ - Become familiar with the Python Standard Library
+ 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wDzeMTIB_Ad6oz3Bx2meaaGCri8FinyH#scrollTo=1N0hGBwr7Fl0)
+ 
+ # Chapter 5 Miscellenous
+ Objectives:
+ - Learn how to read and write files
+ - Become familiar with how to debug using pdb
+ - Understand how to use comprehensions
+ - Know when to use lambda
+ - Learn how to combine long strings of code in a readable manner
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YR3LPpaOlF_PU_g8Z9mmdLS2GdEzZnkX#scrollTo=LUam_uGa9cvv)
+
+# Chapter 6 Numpy
+Objectives:
+ - Learn how to use numpy to create arrays
+ - Understand the difference between a list and an array
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gzbJ3X_t4o4yPTSxnLWEiKKjeztNg040#scrollTo=sXgTu8KmvrTF)
+
+# Chapter 7 Pandas
+Objectives:
+ - Understand how to create and organize a dataframe
+ - Learn how to visualize data using graphs
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PMNk21cOKV2Sw4WwymxevIBr9enEyloq#scrollTo=hvnZYqRgHp8T)
+
+# Chapter 8 Matplotlib
+Objectives
+ - Learn how to create and modify graphs using matplotlib
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ezon9pWu-XHDeLjBX7ELuUKxt6PSR_Xt#scrollTo=glbaCdHq0WP0)
