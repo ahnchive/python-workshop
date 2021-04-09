@@ -28,7 +28,8 @@ Objectives:
  - Familiarize yourself with the basic functions of Python and its applications
  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZX6k6HnPSQAmYReG5_vAliakTC-N0mZ4)
-
+ 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/ahnchive/python-workshop/main/tutorials/Ch1.%20Python%20Warmup.ipynb)
 
 # Chapter 2 Variables and Data Structure
 Objectives:
