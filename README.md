@@ -3,8 +3,8 @@
 
 
 Tutorials ch1-5 adapted from:
-- https://github.com/zhiyzuo/python-tutorial (awaiting permission)
-- https://github.com/jerry-git/learn-python3 (awaiting permission)
+- https://github.com/zhiyzuo/python-tutorial
+- https://github.com/jerry-git/learn-python3
 
 Numpy tutorials adapted from:
 - Nicolas P. Rougier, . (2015, August 21). numpy-tutorial: Version 1.0 (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.28817 (https://github.com/rougier/numpy-tutorial All code and material is licensed under a Creative Commons Attribution-ShareAlike 4.0.)
