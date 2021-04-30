@@ -5,9 +5,8 @@
 
 |   | Tutorial | Answer Key | 
 | - | --- | ---- |
-| chapter 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch1.%20Python%20Warmup.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/python-tutorial/blob/main/tutorials/Ch1. Python Warmup (with Answers).ipynb?flush_cache=true) |
+| chapter 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch1.%20Python%20Warmup.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/python-tutorial/blob/master/tutorials/Ch1. Python Warmup (with Answers).ipynb?flush_cache=true) |
 
-https://github.com/ahnchive/python-workshop/blob/main/quiz%20answers/Ch1.%20Python%20Warmup%20(with%20Answers).ipynb
 
 | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
 ## Chapter 2 Variables and Data Structure
