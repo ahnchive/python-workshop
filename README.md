@@ -45,19 +45,20 @@ Objectives:
  - Learn how to use numpy to create arrays
  - Understand the difference between a list and an array
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch6.%20Numpy.ipynb))
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch6.%20Numpy.ipynb)
 
 # Chapter 7 Pandas
 Objectives:
  - Understand how to create and organize a dataframe
  - Learn how to visualize data using graphs
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch3.%20Pandas.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch7.%20Pandas.ipynb)
 
 # Chapter 8 Matplotlib
 Objectives
  - Learn how to create and modify graphs using matplotlib
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch3.%20Matplotlib.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github./ahnchive/python-workshop/blob/main/tutorials/Ch8.%20Matplotlib.ipynb)
 
 
 
