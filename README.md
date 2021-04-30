@@ -12,7 +12,7 @@
 
 |   | Tutorial | Answer Key | 
 | - | -------- | ---------- |
-| Chapter 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch2.%20Variables%20and%20Data%20Structures.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch2.%20Variables%20and%20Data%20Structure%20(with%20Answers).ipynb) |
+| Chapter 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch2.%20Variables%20and%20Data%20Structures.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch2.%20Variables%20and%20Data%20Structures%20(with%20Answers).ipynb) |
 
  
  
