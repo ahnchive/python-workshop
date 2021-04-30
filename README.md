@@ -20,7 +20,7 @@ Objectives:
  - Understand boolean operators
  - Know how to apply functions and loops
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ErXLQXD5FGfsRCjvEGTms5flw-npGHK4#scrollTo=dGLCijsb6Eol)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch3.%20Control%20Logics%20and%20Functions.ipynb)
 
  # Chapter 4 Classes and Libraries
  Objectives:
