@@ -4,9 +4,7 @@
 # Chapter 1 Python Warmup
 Objectives:
  - Familiarize yourself with the basic functions of Python and its applications
- 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZX6k6HnPSQAmYReG5_vAliakTC-N0mZ4)
- 
+
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch1.%20Python%20Warmup.ipynb)
 
 # Chapter 2 Variables and Data Structure
@@ -15,7 +13,7 @@ Objectives:
  - Understand the differences in variable types
  - Know the difference between mutable and immutable sequences
  
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13VVXXqipUw7MqCCIPvjaI9eQ55E7MVPV#scrollTo=8gO3OO9-xNmX)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch1.%20Python%20Warmup.ipynb)
  
  # Chapter 3 Control Logics and Functions
  Objectives:
