@@ -5,7 +5,7 @@
 
 |   | Tutorial | Answer Key | 
 | - | --- | ---- |
-| chapter 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch1.%20Python%20Warmup.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/python-tutorial/blob/main/tutorials/Ch1.%20Python%20Warmup%20(with%20Answers).ipynb) |
+| chapter 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch1.%20Python%20Warmup.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/python-tutorial/blob/main/tutorials/Ch1. Python Warmup (with Answers).ipynb?flush_cache=true) |
 
 https://github.com/ahnchive/python-workshop/blob/main/quiz%20answers/Ch1.%20Python%20Warmup%20(with%20Answers).ipynb
 
