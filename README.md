@@ -34,12 +34,10 @@
  
  
  # Chapter 5 Miscellenous
- Objectives:
- - Learn how to read and write files
- - Become familiar with how to debug using pdb
- - Understand how to use comprehensions
- - Know when to use lambda
- - Learn how to combine long strings of code in a readable manner
+|   | Run | View | 
+| - | --- | ---- |
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch5.%20Miscellenous.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
+| Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch5.%20Miscellenous%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
 
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch5.%20Miscellenous.ipynb)
 
