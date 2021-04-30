@@ -10,10 +10,8 @@
  
 
 # Chapter 2 Variables and Data Structure
-Objectives:
- - Become familiar with assigning variables
- - Understand the differences in variable types
- - Know the difference between mutable and immutable sequences
+| Chapter 2 Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch2.%20Variables%20and%20Data%20Structures.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
+| Chapter 2 Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch2.%20Variables%20and%20Data%20Structures%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
  
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch2.%20Variables%20and%20Data%20Structures.ipynb)
  
