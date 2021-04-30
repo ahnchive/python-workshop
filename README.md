@@ -58,7 +58,7 @@ Objectives:
 Objectives
  - Learn how to create and modify graphs using matplotlib
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github./ahnchive/python-workshop/blob/main/tutorials/Ch8.%20Matplotlib.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch8.%20Matplotlib.ipynb)
 
 
 
