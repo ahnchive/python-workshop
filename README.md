@@ -1,7 +1,7 @@
 # python-workshop
 
 
-# Chapter 1 Python Warmup
+## Chapter 1 Python Warmup
 
 |   | Run | View | 
 | - | --- | ---- |
@@ -9,7 +9,7 @@
 | Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch1.%20Python%20Warmup%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
  
 
-# Chapter 2 Variables and Data Structure
+## Chapter 2 Variables and Data Structure
 
 |   | Run | View | 
 | - | --- | ---- |
@@ -17,7 +17,7 @@
 | Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch2.%20Variables%20and%20Data%20Structures%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
  
  
- # Chapter 3 Control Logics and Functions
+ ## Chapter 3 Control Logics and Functions
 
 |   | Run | View | 
 | - | --- | ---- |
@@ -25,7 +25,7 @@
 | Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch3.%20Control%20Logics%20and%20Functions%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
 
 
- # Chapter 4 Classes and Libraries
+ ## Chapter 4 Classes and Libraries
 
 |   | Run | View | 
 | - | --- | ---- |
@@ -33,14 +33,14 @@
 | Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch4.%20Classes%20and%20Libraries%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
  
  
- # Chapter 5 Miscellenous
+## Chapter 5 Miscellenous
 |   | Run | View | 
 | - | --- | ---- |
 | Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch5.%20Miscellenous.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
 | Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch5.%20Miscellenous%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
 
 
-# Chapter 6 Numpy
+## Chapter 6 Numpy
 
 |   | Run | View | 
 | - | --- | ---- |
@@ -48,7 +48,7 @@
 | Answer Key| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch6.%20Numpy%20(with%20Answers).ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/NeuromatchAcademy/course-content/blob/master/tutorials/W0D1_PythonWorkshop1/student/W0D1_Tutorial1.ipynb?flush_cache=true) |
  
 
-# Chapter 7 Pandas
+## Chapter 7 Pandas
 
 |   | Run | View | 
 | - | --- | ---- |
@@ -57,7 +57,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch7.%20Pandas.ipynb)
 
-# Chapter 8 Matplotlib
+## Chapter 8 Matplotlib
 Objectives
  - Learn how to create and modify graphs using matplotlib
 
