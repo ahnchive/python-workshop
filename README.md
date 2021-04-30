@@ -13,7 +13,7 @@ Objectives:
  - Understand the differences in variable types
  - Know the difference between mutable and immutable sequences
  
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch1.%20Python%20Warmup.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ahnchive/python-workshop/blob/c98a8767882e537dad250b8ac665672a8ebf8bfa/tutorials/Ch2.%20Variables%20and%20Data%20Structures.ipynb)
  
  # Chapter 3 Control Logics and Functions
  Objectives:
