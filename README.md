@@ -56,8 +56,8 @@ This tutorial is an introduction to the Python programming for psychology studen
 
 
 ## Chapter 8 Matplotlib
-|   | Run | View | 
-| - | --- | ---- |
+|   | Tutorial | Answer Key | 
+| - | -------- | ---------- |
 | Chapter 8 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/python-workshop/blob/main/tutorials/Ch8.%20Matplotlib.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ahnchive/python-workshop/blob/main/quiz%20answers/Ch8.%20Matplotlib%20(with%20Answers).ipynb) |
 
 
