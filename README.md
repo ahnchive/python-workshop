@@ -1,5 +1,6 @@
 # python-workshop
 
+This tutorial is an introduction to the Python programming for psychology students without prior programming and statistics knowledge. Python comes with a simple and interpretable syntax, which makes it very easy for beginners to learn. This language is also widely used in both research and industry, from web development to data analysis to machine learning. In this tutorial, we will start from scratch to learn the basics of Python, e.g., data types and control flow, and we will also learn some powerful external libraries like Numpy, Pandas, and Matplotlib that allows efficient handling and visualizations of dataset. Each tutorial will be provided in the form of interactive coding tutorials hosted in Google Colab (which means you don’t have to install anything! Only thing you need is an access to the internet). Along the way, you will be able to accomplish programming tasks related to the basics of Python and to develop your skillset for data analysis 
 
 ## Chapter 1 Python Warmup
 
