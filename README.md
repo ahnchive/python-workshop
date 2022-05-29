@@ -67,6 +67,7 @@ This tutorial is an introduction to the Python programming for psychology studen
 - https://www.coursera.org/specializations/python
 - https://developers.google.com/edu/python
 - https://campus.datacamp.com/courses/intro-to-python-for-data-science/chapter-1-python-basics?ex=1
+- https://www.djmannion.net/psych_programming/index.html
 ## Informational Video
 - https://www.youtube.com/watch?v=rfscVS0vtbw
 
