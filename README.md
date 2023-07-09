@@ -62,6 +62,8 @@ This tutorial is an introduction to the Python programming for psychology studen
 
 
 # Additional Resources for Learning Python
+https://www.coursera.org/professional-certificates/google-it-automation
+
 ## Websites for Learning Python
 - https://www.edx.org/professional-certificate/introduction-to-python-programming
 - https://www.coursera.org/specializations/python
